@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Jhon",
+      "lastName": "Doe",
+      "phoneNumber": "0919483800"
+    },
+    {
+      "firstName": "Bereket",
+      "lastName": "Zelalem",
+      "phoneNumber": "0919483800",
+      "id": 2
+    },
+    {
+      "firstName": "Test",
+      "lastName": "TESTL",
+      "phoneNumber": "12345645645645",
+      "id": 3
+    },
+    {
+      "firstName": "Bereket",
+      "lastName": "Zelalem",
+      "phoneNumber": "0919483800",
+      "id": 4
+    },
+    {
+      "firstName": "Lender",
+      "lastName": "von doom",
+      "phoneNumber": "0123456788",
+      "id": 5
+    },
+    {
+      "firstName": "Bereket",
+      "lastName": "Zelalem",
+      "phoneNumber": "0919483800",
+      "id": 6
+    },
+    {
+      "firstName": "Weyeneshet",
+      "lastName": "Weldesemayat",
+      "phoneNumber": "12321321321321",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
